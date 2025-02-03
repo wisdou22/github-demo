@@ -7,3 +7,4 @@ This is a new line
 **Some description**
 
 Project Objectives
+This is a demo of how to use and work with Git
